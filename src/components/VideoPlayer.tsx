@@ -57,6 +57,46 @@ const episodes: Episode[] = [
     videoUrl: '/sample-videos/episode-05.mp4',
     description: 'closes this first pass cleanly',
     matchPercentage: 76
+  },
+  {
+    id: '6',
+    title: 'Episode 6',
+    duration: '1:25',
+    videoUrl: '/sample-videos/episode-06.mp4',
+    description: 'develops the tension with perfect pacing',
+    matchPercentage: 74
+  },
+  {
+    id: '7',
+    title: 'Episode 7',
+    duration: '1:50',
+    videoUrl: '/sample-videos/episode-07.mp4',
+    description: 'builds to the climactic revelation scene',
+    matchPercentage: 71
+  },
+  {
+    id: '8',
+    title: 'Episode 8',
+    duration: '1:10',
+    videoUrl: '/sample-videos/episode-08.mp4',
+    description: 'sharp cut that maintains narrative flow',
+    matchPercentage: 69
+  },
+  {
+    id: '9',
+    title: 'Episode 9',
+    duration: '1:20',
+    videoUrl: '/sample-videos/episode-09.mp4',
+    description: 'extends the emotional beats naturally',
+    matchPercentage: 67
+  },
+  {
+    id: '10',
+    title: 'Episode 10',
+    duration: '1:40',
+    videoUrl: '/sample-videos/episode-10.mp4',
+    description: 'concludes the sequence with satisfying resolution',
+    matchPercentage: 65
   }
 ];
 
