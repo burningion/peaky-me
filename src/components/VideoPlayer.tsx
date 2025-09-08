@@ -97,6 +97,46 @@ const episodes: Episode[] = [
     videoUrl: '/sample-videos/episode-10.mp4',
     description: 'concludes the sequence with satisfying resolution',
     matchPercentage: 65
+  },
+  {
+    id: '11',
+    title: 'Episode 11',
+    duration: '1:25',
+    videoUrl: '/sample-videos/episode-11.mp4',
+    description: 'explores deeper character motivations seamlessly',
+    matchPercentage: 63
+  },
+  {
+    id: '12',
+    title: 'Episode 12',
+    duration: '1:10',
+    videoUrl: '/sample-videos/episode-12.mp4',
+    description: 'delivers rapid-fire dialogue with perfect timing',
+    matchPercentage: 61
+  },
+  {
+    id: '13',
+    title: 'Episode 13',
+    duration: '1:55',
+    videoUrl: '/sample-videos/episode-13.mp4',
+    description: 'extends the dramatic tension beautifully',
+    matchPercentage: 59
+  },
+  {
+    id: '14',
+    title: 'Episode 14',
+    duration: '1:30',
+    videoUrl: '/sample-videos/episode-14.mp4',
+    description: 'maintains story momentum with calculated cuts',
+    matchPercentage: 57
+  },
+  {
+    id: '15',
+    title: 'Episode 15',
+    duration: '1:45',
+    videoUrl: '/sample-videos/episode-15.mp4',
+    description: 'wraps the arc with compelling final moments',
+    matchPercentage: 55
   }
 ];
 
